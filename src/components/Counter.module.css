@@ -9,13 +9,21 @@
   border-radius: 10px;
   width: 250px;
   margin: auto;
+  color: #111;
 }
 
-button {
+.counterContainer h2 {
+  color: #111;
+  margin: 0 0 8px;
+}
+
+.counterContainer button {
   padding: 10px 15px;
   margin: 5px;
   font-size: 16px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  background-color: #333;
+  color: #fff;
 }
